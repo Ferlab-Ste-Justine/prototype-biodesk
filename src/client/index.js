@@ -6,7 +6,7 @@ import {
   NotificationServiceProvider,
   SettingsServiceProvider,
   AuthServiceProvider,
-} from './../custom-client';
+} from './../biodesk-client';
 
 import {PanelServiceProvider} from '@osjs/panels';
 import {GUIServiceProvider} from '@osjs/gui';
